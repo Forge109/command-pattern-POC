@@ -1,0 +1,6 @@
+c:\users\forge109\documents\visual studio 2017\Projects\CommandPatternPOC\CommandPatternPOC\bin\Debug\CommandPatternPOC.exe.config
+c:\users\forge109\documents\visual studio 2017\Projects\CommandPatternPOC\CommandPatternPOC\bin\Debug\CommandPatternPOC.exe
+c:\users\forge109\documents\visual studio 2017\Projects\CommandPatternPOC\CommandPatternPOC\bin\Debug\CommandPatternPOC.pdb
+c:\users\forge109\documents\visual studio 2017\Projects\CommandPatternPOC\CommandPatternPOC\obj\Debug\CommandPatternPOC.csprojResolveAssemblyReference.cache
+c:\users\forge109\documents\visual studio 2017\Projects\CommandPatternPOC\CommandPatternPOC\obj\Debug\CommandPatternPOC.exe
+c:\users\forge109\documents\visual studio 2017\Projects\CommandPatternPOC\CommandPatternPOC\obj\Debug\CommandPatternPOC.pdb

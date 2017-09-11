@@ -1,0 +1,7 @@
+﻿namespace CommandPatternPOC.Commands
+{
+	public interface ICommand
+	{
+		void Execute();
+	}
+}
